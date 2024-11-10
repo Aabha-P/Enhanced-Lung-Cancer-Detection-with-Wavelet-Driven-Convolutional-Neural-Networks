@@ -1,0 +1,2 @@
+# Enhanced-Lung-Cancer-Detection-with-Wavelet-Driven-Convolutional-Neural-Networks
+This repository implements a hybrid CNN model for lung cancer classification using CT scan images. It combines CNNs with Gaussian filters and wavelet transformations to classify images into Normal, Benign, and Malignant categories. The model achieves 99% accuracy and uses data augmentation and advanced evaluation metrics.
